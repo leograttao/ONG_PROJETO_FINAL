@@ -1,0 +1,1 @@
+Este site da ONG foi criada para atender pessoas que querem adotar ou doar animais com ONG´s parceiras, seria um site para facilitar o caminho para conseguirem realizar o que desejarem, possuí também area para adicionar uma veterinaria parceira e uma creche caso o usuario queira, este projeto foi realizado afim de um trabalho multidisciplinar da faculdade sendo realizado em grupo
